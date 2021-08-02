@@ -3,16 +3,6 @@ from module.parallelcomp     import run
 import numpy as np
 
 
-
-
-
-
-
-
-
-
-
-
 var   =   [596.0, 40.0, 1.2, 3.6, 1.0, 0.0, 0.0, 0.0, 0.0, 4.0]
 
 
